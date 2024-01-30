@@ -11,3 +11,9 @@ Ce projet met en œuvre une architecture de microservices pour un système e-com
 
 ## Structure du Projet
 Le projet est organisé comme suit :
+
+ecom/
+|-- service-customer/
+|-- gateway-service/
+|-- config-service/
+|-- (Autres services et modules)
