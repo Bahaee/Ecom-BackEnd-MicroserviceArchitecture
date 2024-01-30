@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-gateway-mvc:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-gateway-mvc/unknown/spring-cloud-starter-gateway-mvc-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-gateway-mvc/unknown/spring-cloud-starter-gateway-mvc-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-gateway-mvc/unknown/spring-cloud-starter-gateway-mvc-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
